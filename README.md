@@ -1,6 +1,4 @@
-
-
-https://github.com/user-attachments/assets/2ceb2f60-5872-4a1c-87c4-4122a1ddee56
+https://github.com/user-attachments/assets/efc5d9c7-b42d-41c0-b121-49096345da3b
 # First-Aid Chatbot 🤖💡
 
 This project integrates natural language processing and machine learning to deliver quick and reliable first-aid guidance. The chatbot offers real-time responses to inquiries by retrieving relevant information from a first-aid manual, differentiating between emergency and non-critical cases through sentiment analysis.
